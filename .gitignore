@@ -1,2 +1,4 @@
 *.Zip
 *.LOG
+/PCB/History
+/PCB/__Previews
